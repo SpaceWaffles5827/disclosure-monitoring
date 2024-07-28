@@ -10,7 +10,7 @@ The Disclosure Server is a server-side application that listens for incoming TCP
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/YourUsername/disclosure-server.git
+   git clone https://github.com/SpaceWaffles5827/disclosure-server.git
    cd disclosure-server
    ```
 
